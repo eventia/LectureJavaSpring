@@ -1,4 +1,4 @@
-# Spring 프레임웍 학습
+# Spring 교육
 
 ## Spring 이란
 
